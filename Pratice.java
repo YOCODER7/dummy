@@ -99,7 +99,7 @@ class pratice {
 
         list.display();
 
-        list.delete(2000);
+        list.delete(1000);
         list.display();
     }
 }
