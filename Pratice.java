@@ -65,7 +65,7 @@ class pratice {
             temp.prev.next = temp.next;
         }
 
-        System.out.println(value + " Deleted ");
+        System.out.println(value + " Deleted vanished ");
     }
 
     public void display() {
